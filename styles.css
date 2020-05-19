@@ -1,0 +1,29 @@
+.oplossing{
+    border:5px solid lightcoral;
+    margin: 5px;
+    padding:10px;
+
+}
+
+.centreren{
+  margin:0 auto;
+  width: 500px;
+}
+
+.navigatie li{
+  display:inline;
+  margin:10px;
+}
+
+body {background-color:red;
+}
+
+@media screen and (min-width: 800px){
+  body {background-color: yellow;
+        color:blue;
+        line-height: 2rem;
+        font-size: 50%;
+  }
+}
+
+
